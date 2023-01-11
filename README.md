@@ -4,6 +4,8 @@
  ### 1. Perform the CRUD operations
  ### 2. Use different schema 
  
+ ## Postman collection link for testing of apis= [link] (https://cloudy-crescent-754018.postman.co/workspace/lavbooing-app~1ab6ca18-73c4-4a2f-ba21-6404fdaa695d/collection/18045524-e7dd0917-bccf-4afb-80a6-ae10cc16d93f?action=share&creator=18045524)
+ 
 ## 1. Basicprofile component 
 
 ![image](https://user-images.githubusercontent.com/88780692/211895908-6e7de43d-d628-4fed-a139-0bd5a01e2f6b.png)
